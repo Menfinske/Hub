@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-"apples sweet oranges kiwis carrots" 
-=======
-"sweet apples oranges kiwis carrots" 
->>>>>>> 923f7cdceb5e95179d0ea506947cd91af41d5edc
+"sour apples oranges kiwis carrots" 
